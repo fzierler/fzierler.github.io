@@ -5,9 +5,11 @@ date: 2023-06-11 23:49:10
 
 ## Articles
 
-[1] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter,” [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191)
+[1] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories,” [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
 
-[2] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories,” [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
+## Preprints
+
+[1] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter,” [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191)
 
 ## Conference Proceedings
 

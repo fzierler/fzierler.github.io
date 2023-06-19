@@ -11,7 +11,9 @@ date: 2023-06-11 23:49:01
 
 [3] "Low-energy effective description of dark Sp(4) theories", F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, FAKT Workshop 2022, Bruck an der Mur, Austria, February 2022 [(pdf)](pdfs/FAKT2022_FG1_Zierler.pdf)
 
-[4] "QCD und Technicolor bei fast-konstanter Kopplung", F. Zierler, M. Adrien, H. Sanchis Alepuz, R. Alkofer 51. Herbstschule für Teilchenphysik, Maria Laach, Germany, September 2019 [(pdf)](pdfs/MariaLaach2019_Zierler.pdf)
+[4] "Sp(4) Gauge Theory on the Lattice", F. Zierler, A. Maas, Joint Annual Meeting of the Austrian Physical Society (ÖPG) and Swiss Physical Society (SPS), Innsbruck, Austria, September 2021 [(pdf)](pdfs/OEPGSPS2021_Zierler.pdf)
+
+[5] "QCD und Technicolor bei fast-konstanter Kopplung", F. Zierler, M. Adrien, H. Sanchis Alepuz, R. Alkofer, 51. Herbstschule für Teilchenphysik, Maria Laach, Germany, September 2019 [(pdf)](pdfs/MariaLaach2019_Zierler.pdf)
 
 ## Poster
 
