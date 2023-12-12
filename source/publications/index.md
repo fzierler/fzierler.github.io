@@ -1,7 +1,11 @@
 ---
 title: publications
-date: 2023-06-11 23:49:10
+date: 2023-12-12 07:44:10
 ---
+
+## Preprints
+
+[1] F. Zierler and R. Alkofer, “On the Landau gauge ghost-gluon-vertex close to and in the conformal window,” [2312.06463 [hep-ph]](http://arxiv.org/abs/2312.06463)
 
 ## Articles
 
