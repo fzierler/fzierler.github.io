@@ -5,19 +5,21 @@ date: 2023-06-11 23:49:01
 
 ## Talks
 
-[1] "Composite Dark Matter from Sp(2N) gauge theories", F. Zierler, IBS-CTPU, Daejeon, Korea, 2024 [(pdf)](pdfs/zierler_daejeon_2024.pdf)
+[1] "Composite Dark Matter from Sp(2N) gauge theories", F. Zierler, UKLFT Meeting, Plymouth, UK, 2024 [(pdf)](pdfs/talk_plymout_2024.pdf)
 
-[2] "Composite Dark Matter from Sp(2N) gauge theory", F. Zierler, PNU workshop on Composite Higgs : Lattice study and all, Busan, Korea, 2024 [(pdf)](pdfs/zierler_busan_2024.pdf)
+[2] "Composite Dark Matter from Sp(2N) gauge theories", F. Zierler, IBS-CTPU, Daejeon, Korea, 2024 [(pdf)](pdfs/zierler_daejeon_2024.pdf)
 
-[3] "Dark Isosinglet Mesons in Sp(4) gauge theory", F. Zierler, J.-W. Lee, A. Maas, F. Pressler, The 39th International Symposium on Lattice Field Theory. Bonn, Germany, August 2022 [(pdf)](pdfs/Lattice2022_Zierler.pdf)
+[3] "Composite Dark Matter from Sp(2N) gauge theory", F. Zierler, PNU workshop on Composite Higgs : Lattice study and all, Busan, Korea, 2024 [(pdf)](pdfs/zierler_busan_2024.pdf)
 
-[4] "Strongly Interacting Dark Matter from Sp(4) Gauge Theory", F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, XVth Quark Confinement and the Hadron Spectrum Conference, Stavanger, Norway, August 2022 [(pdf)](pdfs/Confinement2022_Zierler.pdf)
+[4] "Dark Isosinglet Mesons in Sp(4) gauge theory", F. Zierler, J.-W. Lee, A. Maas, F. Pressler, The 39th International Symposium on Lattice Field Theory. Bonn, Germany, August 2022 [(pdf)](pdfs/Lattice2022_Zierler.pdf)
 
-[5] "Low-energy effective description of dark Sp(4) theories", F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, FAKT Workshop 2022, Bruck an der Mur, Austria, February 2022 [(pdf)](pdfs/FAKT2022_FG1_Zierler.pdf)
+[5] "Strongly Interacting Dark Matter from Sp(4) Gauge Theory", F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, XVth Quark Confinement and the Hadron Spectrum Conference, Stavanger, Norway, August 2022 [(pdf)](pdfs/Confinement2022_Zierler.pdf)
 
-[6] "Sp(4) Gauge Theory on the Lattice", F. Zierler, A. Maas, Joint Annual Meeting of the Austrian Physical Society (ÖPG) and Swiss Physical Society (SPS), Innsbruck, Austria, September 2021 [(pdf)](pdfs/OEPGSPS2021_Zierler.pdf)
+[6] "Low-energy effective description of dark Sp(4) theories", F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, FAKT Workshop 2022, Bruck an der Mur, Austria, February 2022 [(pdf)](pdfs/FAKT2022_FG1_Zierler.pdf)
 
-[7] "QCD und Technicolor bei fast-konstanter Kopplung", F. Zierler, M. Adrien, H. Sanchis Alepuz, R. Alkofer, 51. Herbstschule für Teilchenphysik, Maria Laach, Germany, September 2019 [(pdf)](pdfs/MariaLaach2019_Zierler.pdf)
+[7] "Sp(4) Gauge Theory on the Lattice", F. Zierler, A. Maas, Joint Annual Meeting of the Austrian Physical Society (ÖPG) and Swiss Physical Society (SPS), Innsbruck, Austria, September 2021 [(pdf)](pdfs/OEPGSPS2021_Zierler.pdf)
+
+[8] "QCD und Technicolor bei fast-konstanter Kopplung", F. Zierler, M. Adrien, H. Sanchis Alepuz, R. Alkofer, 51. Herbstschule für Teilchenphysik, Maria Laach, Germany, September 2019 [(pdf)](pdfs/MariaLaach2019_Zierler.pdf)
 
 ## Poster
 
