@@ -5,17 +5,19 @@ date: 2023-12-12 07:44:10
 
 ## Preprints
 
-[1] F. Zierler and R. Alkofer, “On the Landau gauge ghost-gluon-vertex close to and in the conformal window,” [2312.06463 [hep-ph]](http://arxiv.org/abs/2312.06463)
+[1] E. Bennett, L. Del Debbio, N. Forzano, R.C. Hill, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino and F. Zierler, "Meson spectroscopy from spectral densities in lattice gauge theories", [2405.01388 [hep-lat]](https://arxiv.org/abs/2405.01388)
 
 ## Articles
 
-[1] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter,” [Phys.Rev.D 109 (2024) 3](https://doi.org/10.1103/PhysRevD.109.034504), [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191) 
+[1] F. Zierler and R. Alkofer, “Dependence of the Landau gauge ghost-gluon-vertex on the number of flavors”, [Phys.Rev.D 109 (2024) 7](https://doi.org/10.1103/PhysRevD.109.074024), [2312.06463 [hep-ph]](http://arxiv.org/abs/2312.06463)
 
-[2] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories,” [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
+[2] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter”, [Phys.Rev.D 109 (2024) 3](https://doi.org/10.1103/PhysRevD.109.034504), [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191) 
+
+[3] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories”, [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
 
 ## Conference Proceedings
 
-[1] Y. Dengler, A. Maas, F. Zierler, "Scattering of dark pions in an Sp(4) gauge theory", [arXiv:2311.18549 [hep-lat]](https://arxiv.org/abs/)
+[1] Y. Dengler, A. Maas, F. Zierler, "Scattering of dark pions in an Sp(4) gauge theory", [PoS LATTICE2023 103](https://pos.sissa.it/453/103) [arXiv:2311.18549 [hep-lat]](https://arxiv.org/abs/)
 
 [2] F. Zierler, J.-W. Lee, A. Maas, and F. Pressler, “Singlet Mesons in Dark Sp(4) Theories”, [PoS LATTICE2022 (2023) 225](http://dx.doi.org/10.22323/1.430.0225), [arXiv:2210.11187 [hep-lat]](http://arxiv.org/abs/2210.11187)
 
