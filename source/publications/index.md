@@ -5,7 +5,11 @@ date: 2023-12-12 07:44:10
 
 ## Preprints
 
-[1] E. Bennett, L. Del Debbio, N. Forzano, R.C. Hill, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino and F. Zierler, "Meson spectroscopy from spectral densities in lattice gauge theories", [2405.01388 [hep-lat]](https://arxiv.org/abs/2405.01388)
+[1] Y. Dengler, A. Maas, and F. Zierler, "Scattering of dark pions in Sp(4) gauge theory", [2405.06506 [hep-lat]](https://arxiv.org/abs/2405.06506)
+
+[2] E. Bennett, N. Forzano, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, M. Piai, D. Vadacchino and F. Zierler, "On the mixing between flavor singlets in lattice gauge theories coupled to matter fields in multiple representations", [2405.05765 [hep-lat]](https://arxiv.org/abs/2405.05765)
+
+[3] E. Bennett, L. Del Debbio, N. Forzano, R.C. Hill, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino and F. Zierler, "Meson spectroscopy from spectral densities in lattice gauge theories", [2405.01388 [hep-lat]](https://arxiv.org/abs/2405.01388)
 
 ## Articles
 
