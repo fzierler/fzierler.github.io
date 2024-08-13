@@ -6,8 +6,7 @@ date: 2023-12-12 07:44:10
 ## Preprints
 
 [1] Y. Dengler, A. Maas, and F. Zierler, "Scattering of dark pions in Sp(4) gauge theory", [2405.06506 [hep-lat]](https://arxiv.org/abs/2405.06506)
-Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13303536.svg)](https://doi.org/10.5281/zenodo.13303536)
-Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12920978.svg)](https://doi.org/10.5281/zenodo.12920978)
+Code:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13303536.svg)](https://doi.org/10.5281/zenodo.13303536) Data:[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12920978.svg)](https://doi.org/10.5281/zenodo.12920978)
 
 [2] E. Bennett, N. Forzano, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, M. Piai, D. Vadacchino and F. Zierler, "On the mixing between flavor singlets in lattice gauge theories coupled to matter fields in multiple representations", [2405.05765 [hep-lat]](https://arxiv.org/abs/2405.05765)
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12748631.svg)](https://doi.org/10.5281/zenodo.12748631)
