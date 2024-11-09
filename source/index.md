@@ -5,6 +5,9 @@ My current research interests include:
 - Composite Dark Matter
 - Strongly Interacting Gauge Theories
 - Lattice Field Theory
+- Hadron Spectroscopy and Scattering
+- Finite Temperature Phase Transitions
+- Dyson-Schwinger/Bethe-Salpeter Equations
 
 ![portrait of me](/images/profil.png) 
 
