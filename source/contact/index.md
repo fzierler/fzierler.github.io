@@ -1,6 +1,6 @@
 ---
 title: contact
-date: 2023-06-12 19:23:42
+date: {{ date }}
 ---
 Fabian Zierler
 Swansea University

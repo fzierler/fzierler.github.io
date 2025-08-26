@@ -1,7 +1,12 @@
 ---
 title: publications
-date: 2023-12-12 07:44:10
+date: {{ date }}
 ---
+
+## Preprints
+
+[1] E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: a spectral density analysis", [2506.19804 [hep-lat]](https://arxiv.org/abs/2506.19804)
+Code:<a href="https://doi.org/10.5281/zenodo.15804889"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804889.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.15804848"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804848.svg" alt="DOI"></a>
 
 ## Articles
 
@@ -24,23 +29,28 @@ Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10352176.svg)](https:/
 
 ## Conference Proceedings
 
-[1] Ho Hsiao, Ed Bennett, Niccolò Forzano, Deog Ki Hong, Jong-Wan Lee, C.-J. David Lin, Biagio Lucini, Maurizio Piai, Davide Vadacchino, F. Zierler, "Progress on the spectroscopy of an Sp(4) gauge theory coupled to matter in multiple representations",[PoS LATTICE2024]() [arXiv:2411.18379 [hep-lat]](https://arxiv.org/abs/2411.18379)
+[1] C.-J. D. Lin, E. Bennett, N. Forzano, D. K. Hong, H. Hsiao, J.-W. Lee, B. Lucini, M. Piai, D. Vadacchino, F. Zierler, "Progress on lattice study of the chimera baryon spec-
+trum in Sp(4) gauge theory", [QCHSC 2024](), [arXiv:2502.19767 [hep-lat]](https://arxiv.org/abs/2502.19767)
 
-[2] D. Mason, E. Bennett, B. Lucini, M. Piai, E. Rinaldi, D. Vadacchino, F. Zierler, "Updates on the density of states method in finite temperature symplectic gauge theories", [PoS LATTICE2024]() [arXiv:2411.13101 [hep-lat]](https://arxiv.org/abs/2411.13101)
+[2] Y. Dengler, A. Maas, F. Zierler, "Scattering of SIMPlectic Dark Pion" [PoS LATTICE2024](https://pos.sissa.it/466/087) [arXiv:2501.18368 [hep-lat]](https://arxiv.org/abs/2501.18368)
 
-[3] F. Zierler, E. Bennett, N. Forzano, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, M. Piai, D. Vadacchino, "Progress on pseudoscalar flavour-singlets in Sp(4) with mixed fermion representations", [PoS LATTICE2024]() [arXiv:2410.11412 [hep-lat]](https://arxiv.org/abs/2410.11412)
+[3] H. Hsiao, E. Bennett, N. Forzano, D. K. Hong, J.-W. Lee, C. J. D. Lin, B. Lucini, M. Piai, D. Vadacchino, F. Zierler, “Progress on the spectroscopy of an Sp(4) gauge theory coupled to matter in multiple representations,” [PoS LATTICE2024](https://pos.sissa.it/466/139) [arXiv:2411.18379 [hep-lat]](https://arxiv.org/abs/2411.18379)
 
-[4] E. Bennett, L. Del Debbio, N. Forzano, R. C. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, F. Zierler, "Progress on the spectroscopy of lattice gauge theories using spectral densities", [PoS LATTICE2024]() [arXiv:2410.11386 [hep-lat]](https://arxiv.org/abs/2410.11386)
+[4] D. Mason, E. Bennett, B. Lucini, M. Piai, E. Rinaldi, D. Vadacchino, F. Zierler, "Updates on the density of states method in finite temperature symplectic gauge theories", [PoS LATTICE2024](https://pos.sissa.it/466/147) [arXiv:2411.13101 [hep-lat]](https://arxiv.org/abs/2411.13101)
 
-[5] Y. Dengler, A. Maas, F. Zierler, "Scattering of dark pions in an Sp(4) gauge theory", [PoS LATTICE2023 103](https://pos.sissa.it/453/103) [arXiv:2311.18549 [hep-lat]](https://arxiv.org/abs/2311.18549)
+[5] F. Zierler, E. Bennett, N. Forzano, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, M. Piai, D. Vadacchino, "Progress on pseudoscalar flavour-singlets in Sp(4) with mixed fermion representations", [PoS LATTICE2024]() [arXiv:2410.11412 [hep-lat]](https://arxiv.org/abs/2410.11412)
 
-[6] F. Zierler, J.-W. Lee, A. Maas, and F. Pressler, “Singlet Mesons in Dark Sp(4) Theories”, [PoS LATTICE2022 (2023) 225](http://dx.doi.org/10.22323/1.430.0225), [arXiv:2210.11187 [hep-lat]](http://arxiv.org/abs/2210.11187)
+[6] E. Bennett, L. Del Debbio, N. Forzano, R. C. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, F. Zierler, "Progress on the spectroscopy of lattice gauge theories using spectral densities", [PoS LATTICE2024](https://pos.sissa.it/466/137) [arXiv:2410.11386 [hep-lat]](https://arxiv.org/abs/2410.11386)
 
-[7] F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, and J. Pradler, “Strongly Interacting Dark Matter from Sp(4) Gauge Theory,” [EPJ WebConf. 274 (2022) 08014](http://dx.doi.org/10.1051/epjconf/202227408014), [arXiv:2211.11272 [hep-ph]](http://arxiv.org/abs/2211.11272)
+[7] Y. Dengler, A. Maas, F. Zierler, "Scattering of dark pions in an Sp(4) gauge theory", [PoS LATTICE2023 103](https://pos.sissa.it/453/103) [arXiv:2311.18549 [hep-lat]](https://arxiv.org/abs/2311.18549)
 
-[8] A. Maas and F. Zierler, “Strong isospin breaking in Sp(4) gauge theory,[”PoS LATTICE2021 (2022) 130](http://dx.doi.org/10.22323/1.396.0130), [arXiv:2109.14377 [hep-lat]](http://arxiv.org/abs/2109.14377)
+[8] F. Zierler, J.-W. Lee, A. Maas, and F. Pressler, “Singlet Mesons in Dark Sp(4) Theories”, [PoS LATTICE2022 (2023) 225](http://dx.doi.org/10.22323/1.430.0225), [arXiv:2210.11187 [hep-lat]](http://arxiv.org/abs/2210.11187)
 
-[9] F. Zierler and A. Maas, “Sp(4) SIMP Dark Matter on the Lattice,” [PoSLHCP2021 (2021) 162](http://dx.doi.org/10.22323/1.397.0162), abridged version of [arXiv:2109.14377 [hep-lat]](http://arxiv.org/abs/2109.14377)
+[9] F. Zierler, S. Kulkarni, A. Maas, S. Mee, M. Nikolic, and J. Pradler, “Strongly Interacting Dark Matter from Sp(4) Gauge Theory,” [EPJ WebConf. 274 (2022) 08014](http://dx.doi.org/10.1051/epjconf/202227408014), [arXiv:2211.11272 [hep-ph]](http://arxiv.org/abs/2211.11272)
+
+[10] A. Maas and F. Zierler, “Strong isospin breaking in Sp(4) gauge theory,[”PoS LATTICE2021 (2022) 130](http://dx.doi.org/10.22323/1.396.0130), [arXiv:2109.14377 [hep-lat]](http://arxiv.org/abs/2109.14377)
+
+[11] F. Zierler and A. Maas, “Sp(4) SIMP Dark Matter on the Lattice,” [PoSLHCP2021 (2021) 162](http://dx.doi.org/10.22323/1.397.0162), abridged version of [arXiv:2109.14377 [hep-lat]](http://arxiv.org/abs/2109.14377)
 
 ## Thesis
 
