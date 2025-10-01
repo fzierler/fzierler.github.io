@@ -5,7 +5,10 @@ date: {{ date }}
 
 ## Preprints
 
-[1] E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: a spectral density analysis", [2506.19804 [hep-lat]](https://arxiv.org/abs/2506.19804)
+[1] D. Mason, E. Bennett, B. Lucini, M. Piai, E. Rinaldi, D. Vadacchino, F. Zierler, "Finite-temperature Yang-Mills theories with the density of states method: towards the continuum limit", [2509.19009 [hep-lat]](https://arxiv.org/abs/2509.19009)
+Code:<a href="https://doi.org/10.5281/zenodo.16579683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16579683.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.16580109"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16580109.svg" alt="DOI"></a>
+
+[2] E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: a spectral density analysis", [2506.19804 [hep-lat]](https://arxiv.org/abs/2506.19804)
 Code:<a href="https://doi.org/10.5281/zenodo.15804889"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804889.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.15804848"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804848.svg" alt="DOI"></a>
 
 ## Articles
