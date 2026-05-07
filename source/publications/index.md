@@ -35,8 +35,13 @@ Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10352176.svg)](https:/
 
 ## Conference Proceedings
 
-[1] C.-J. D. Lin, E. Bennett, N. Forzano, D. K. Hong, H. Hsiao, J.-W. Lee, B. Lucini, M. Piai, D. Vadacchino, F. Zierler, "Progress on lattice study of the chimera baryon spec-
-trum in Sp(4) gauge theory", [QCHSC 2024](), [arXiv:2502.19767 [hep-lat]](https://arxiv.org/abs/2502.19767)
+[*] J.-W. Lee, E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: A spectral density analysis", [Baryons 2025](), [2604.04433 [hep-lat]](https://arxiv.org/abs/2604.04433) 
+
+[*] J.-W. Lee, E. Bennett, Y. Dengler, D.K. Hong, H. Hsiao, C.-J.D. Lin, B. Lucini, A. Maas, M. Piai, D. Vadacchino, F. Zierler, "Vector-channel scattering of dark particles in a Sp(4) gauge theory", [Lattice2025](), [2603.19557](https://arxiv.org/abs/2603.19557)
+
+[*] F. Zierler, E. Bennett, B. Lucini, D. Mason, M. Piai, E. Rinaldi, D. Vadacchino, "Finite-temperature Sp(4) Yang-Mills theory: towards the continuum", [Lattice2025](), [2602.23735 [hep-lat]](https://arxiv.org/abs/2602.23735)
+
+[1] C.-J. D. Lin, E. Bennett, N. Forzano, D. K. Hong, H. Hsiao, J.-W. Lee, B. Lucini, M. Piai, D. Vadacchino, F. Zierler, "Progress on lattice study of the chimera baryon spectrum in Sp(4) gauge theory", [QCHSC 2024](https://doi.org/10.22323/1.483.0180), [arXiv:2502.19767 [hep-lat]](https://arxiv.org/abs/2502.19767)
 
 [2] Y. Dengler, A. Maas, F. Zierler, "Scattering of SIMPlectic Dark Pion" [PoS LATTICE2024](https://pos.sissa.it/466/087) [arXiv:2501.18368 [hep-lat]](https://arxiv.org/abs/2501.18368)
 
