@@ -3,32 +3,35 @@ title: publications
 date: {{ date }}
 ---
 
-Full publications list on inspirehep.net: [inspirehep.net/authors/1933762](https://inspirehep.net/authors/1933762) 
+Full publications list: [inspirehep.net/authors/1933762](https://inspirehep.net/authors/1933762) 
 
 ## Articles
 
-[*] E. Bennett, B. Lucini, D. Mason, M. Piai, E. Rinaldi, D. Vadacchino, F. Zierler, "Finite-temperature Yang-Mills theories with the density of states method: towards the continuum limit",[Phys.Rev.D 113 (2026) 7](https://doi.org/10.1103/ww6s-xw9z),[2509.19009 [hep-lat]](https://arxiv.org/abs/2509.19009)
-Code:<a href="https://doi.org/10.5281/zenodo.16579683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16579683.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.16580109"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16580109.svg" alt="DOI"></a>
+[1] R. Alkofer, C. S. Fischer, F. Zierler, "Chiral symmetry restoration effects onto the meson spectrum from a Dyson-Schwinger and Bethe-Salpeter approach", [Phys.Rev.D 113 (2026)](https://doi.org/10.1103/q3kq-s8qn), [2602.17456 [hep-ph]](https://arxiv.org/abs/2602.17456)
+Code & Data: <a href="https://doi.org/10.5281/zenodo.18692770"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18692770.svg" alt="DOI"></a> 
 
-[*] E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: a spectral density analysis",[Phys.Rev.D 112 (2025) 7](https://doi.org/10.1103/qkqx-xxb2),[2506.19804 [hep-lat]](https://arxiv.org/abs/2506.19804)
-Code:<a href="https://doi.org/10.5281/zenodo.15804889"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804889.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.15804848"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804848.svg" alt="DOI"></a>
+[2] E. Bennett, B. Lucini, D. Mason, M. Piai, E. Rinaldi, D. Vadacchino, F. Zierler, "Finite-temperature Yang-Mills theories with the density of states method: towards the continuum limit",[Phys.Rev.D 113 (2026) 7](https://doi.org/10.1103/ww6s-xw9z),[2509.19009 [hep-lat]](https://arxiv.org/abs/2509.19009)
+Code: <a href="https://doi.org/10.5281/zenodo.16579683"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16579683.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.16580109"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.16580109.svg" alt="DOI"></a>
 
-[1] Y. Dengler, A. Maas, and F. Zierler, "Scattering of dark pions in Sp(4) gauge theory", [Phys.Rev.D 110 (2024) 5](https://doi.org/10.1103/PhysRevD.110.054513) [2405.06506 [hep-lat]](https://arxiv.org/abs/2405.06506) 
-Code:<a href="https://doi.org/10.5281/zenodo.13303536"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13303536.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.12920978"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.12920978.svg" alt="DOI"></a>
+[3] E. Bennett, L. Del Debbio, N. Forzano, R. Hill, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino, and F. Zierler, "Chimera baryons and mesons on the lattice: a spectral density analysis",[Phys.Rev.D 112 (2025) 7](https://doi.org/10.1103/qkqx-xxb2),[2506.19804 [hep-lat]](https://arxiv.org/abs/2506.19804)
+Code: <a href="https://doi.org/10.5281/zenodo.15804889"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804889.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.15804848"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15804848.svg" alt="DOI"></a>
 
-[2] E. Bennett, N. Forzano, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, M. Piai, D. Vadacchino and F. Zierler, "Mixing between flavor singlets in lattice gauge theories coupled to matter fields in multiple representations", [Phys.Rev.D 110 (2024) 7](https://doi.org/10.1103/PhysRevD.110.074504) [2405.05765 [hep-lat]](https://arxiv.org/abs/2405.05765)
+[4] Y. Dengler, A. Maas, and F. Zierler, "Scattering of dark pions in Sp(4) gauge theory", [Phys.Rev.D 110 (2024) 5](https://doi.org/10.1103/PhysRevD.110.054513) [2405.06506 [hep-lat]](https://arxiv.org/abs/2405.06506) 
+Code: <a href="https://doi.org/10.5281/zenodo.13303536"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.13303536.svg" alt="DOI"></a> Data:<a href="https://doi.org/10.5281/zenodo.12920978"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.12920978.svg" alt="DOI"></a>
+
+[5] E. Bennett, N. Forzano, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, M. Piai, D. Vadacchino and F. Zierler, "Mixing between flavor singlets in lattice gauge theories coupled to matter fields in multiple representations", [Phys.Rev.D 110 (2024) 7](https://doi.org/10.1103/PhysRevD.110.074504) [2405.05765 [hep-lat]](https://arxiv.org/abs/2405.05765)
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12748631.svg)](https://doi.org/10.5281/zenodo.12748631) Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11370542.svg)](https://doi.org/10.5281/zenodo.11370542)
 
-[3] E. Bennett, L. Del Debbio, N. Forzano, R.C. Hill, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino and F. Zierler, "Meson spectroscopy from spectral densities in lattice gauge theories", [Phys.Rev.D 110 (2024) 7](https://doi.org/10.1103/PhysRevD.110.074509) [2405.01388 [hep-lat]](https://arxiv.org/abs/2405.01388)
+[6] E. Bennett, L. Del Debbio, N. Forzano, R.C. Hill, D.K. Hong, H. Hsiao, J.-W. Lee, C.-J.D. Lin, B. Lucini, A. Lupo, M. Piai, D. Vadacchino and F. Zierler, "Meson spectroscopy from spectral densities in lattice gauge theories", [Phys.Rev.D 110 (2024) 7](https://doi.org/10.1103/PhysRevD.110.074509) [2405.01388 [hep-lat]](https://arxiv.org/abs/2405.01388)
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11048300.svg)](https://doi.org/10.5281/zenodo.11048300) Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.11048346.svg)](https://doi.org/10.5281/zenodo.11048346)
 
-[4] F. Zierler and R. Alkofer, “Dependence of the Landau gauge ghost-gluon-vertex on the number of flavors”, [Phys.Rev.D 109 (2024) 7](https://doi.org/10.1103/PhysRevD.109.074024), [2312.06463 [hep-ph]](http://arxiv.org/abs/2312.06463)
+[7] F. Zierler and R. Alkofer, “Dependence of the Landau gauge ghost-gluon-vertex on the number of flavors”, [Phys.Rev.D 109 (2024) 7](https://doi.org/10.1103/PhysRevD.109.074024), [2312.06463 [hep-ph]](http://arxiv.org/abs/2312.06463)
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10849177.svg)](https://doi.org/10.5281/zenodo.10849177) Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10849201.svg)](https://doi.org/10.5281/zenodo.10849201)
 
-[5] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter”, [Phys.Rev.D 109 (2024) 3](https://doi.org/10.1103/PhysRevD.109.034504), [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191) 
+[8] E. Bennett, H. Hsiao, J.-W. Lee, B. Lucini, A. Maas, M. Piai, and F. Zierler, “Singlets in gauge theories with fundamental matter”, [Phys.Rev.D 109 (2024) 3](https://doi.org/10.1103/PhysRevD.109.034504), [arXiv:2304.07191 [hep-lat]](http://arxiv.org/abs/2304.07191) 
 Code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10352176.svg)](https://doi.org/10.5281/zenodo.10352176) Data: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10352099.svg)](https://doi.org/10.5281/zenodo.10352099)
 
-[6] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories”, [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
+[9] S. Kulkarni, A. Maas, S. Mee, M. Nikolic, J. Pradler, and F. Zierler, “Low-energy effective description of dark Sp(4) theories”, [SciPost Phys.14 (2023) 044](http://dx.doi.org/10.21468/SciPostPhys.14.3.044), [arXiv:2202.05191 [hep-ph]](http://arxiv.org/abs/2202.05191)
 
 ## Conference Proceedings
 
