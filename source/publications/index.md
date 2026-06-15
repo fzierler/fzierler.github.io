@@ -5,6 +5,10 @@ date: {{ date }}
 
 Full publications list: [inspirehep.net/authors/1933762](https://inspirehep.net/authors/1933762) 
 
+## Preprints
+
+[1] E. Bennett, Y. Dengler, D. K. Hong, H. Hsiao, J.-W. Lee, C.-J. D. Lin, B. Lucini, A. Maas, M. Piai, D. Vadacchino, F. Zierler, "Resonant scattering in two-flavored Sp(4) lattice gauge theories", [2606.14546 [hep-lat]](https://arxiv.org/abs/2606.14546)
+
 ## Articles
 
 [1] R. Alkofer, C. S. Fischer, F. Zierler, "Chiral symmetry restoration effects onto the meson spectrum from a Dyson-Schwinger and Bethe-Salpeter approach", [Phys.Rev.D 113 (2026)](https://doi.org/10.1103/q3kq-s8qn), [2602.17456 [hep-ph]](https://arxiv.org/abs/2602.17456)
